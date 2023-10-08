@@ -1,0 +1,729 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1696738720944,
+      "path": "Extras/Canvases/Freeing Your Thinking.canvas",
+      "title": "Welcome"
+    },
+    {
+      "type": "search",
+      "ctime": 1696794365524,
+      "query": "file: .canvas",
+      "title": "Canvases"
+    },
+    {
+      "type": "search",
+      "ctime": 1696739928885,
+      "query": "/action:: true/",
+      "title": "Action Needed"
+    },
+    {
+      "type": "group",
+      "ctime": 1694106453309,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1693570887104,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1693492065139,
+              "query": "\"type: log\" OR \"type:: log\" OR #log",
+              "title": "All Logs"
+            },
+            {
+              "type": "file",
+              "ctime": 1694444008345,
+              "path": "Notes/Logs.canvas",
+              "title": "Logs"
+            },
+            {
+              "type": "file",
+              "ctime": 1693578606204,
+              "path": "Notes/Exercise Log.md"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242446519,
+              "query": "/Std Log:: \\w+/",
+              "title": "Study Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242490560,
+              "query": "/Wrk Log:: \\w+/",
+              "title": "Work Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242842221,
+              "query": "/Piano Log:: \\w+/",
+              "title": "Piano Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694921267341,
+              "query": "[fileClass:exercise]",
+              "title": "Exercise Log"
+            }
+          ],
+          "title": "Logs"
+        },
+        {
+          "type": "group",
+          "ctime": 1694342132030,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694342091728,
+              "query": "[\"fileclass\":bio]",
+              "title": "Biographical"
+            }
+          ],
+          "title": "Curriculum Vitae"
+        },
+        {
+          "type": "group",
+          "ctime": 1694241716857,
+          "items": [],
+          "title": "People"
+        },
+        {
+          "type": "group",
+          "ctime": 1694241739159,
+          "items": [],
+          "title": "Leisure"
+        }
+      ],
+      "title": "Living"
+    },
+    {
+      "type": "group",
+      "ctime": 1692678646623,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1696794732486,
+          "query": "/type:: .*guide/",
+          "title": "Guides"
+        },
+        {
+          "type": "search",
+          "ctime": 1696740440975,
+          "query": "/type:: .*example/",
+          "title": "Examples"
+        },
+        {
+          "type": "group",
+          "ctime": 1692678890454,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1694122472103,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1694145986602,
+                  "query": "Probability ([\"action\":true] OR [\"action\":yes] OR \"action:: true\" OR \"action:: yes\"))",
+                  "title": "Action needed"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694145850664,
+                  "query": "Probability ([\"type\":fleeting] OR \"type:: fleeting\" OR path:+)",
+                  "title": "Fleeting"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678931742,
+                  "query": "Probability"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694120415129,
+                  "items": [
+                    {
+                      "type": "search",
+                      "ctime": 1694491898457,
+                      "query": "/(gaussian|normal) distribution/",
+                      "title": "Filter"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694387050087,
+                      "path": "Notes/Normal Distribution.canvas",
+                      "title": "Canvas"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694127017542,
+                      "path": "Notes/Cards/Normal Distribution.md",
+                      "title": "Note"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1694122419850,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1694122316239,
+                          "path": "Notes/Cards/Central Limit Theorem.md",
+                          "subpath": "#^1b9582",
+                          "title": "Central Limit Theorem Exampl"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694122373461,
+                          "path": "Notes/Cards/Central Limit Theorem.md",
+                          "subpath": "#Description"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694122285054,
+                          "path": "Notes/Cards/Central Limit Theorem.md"
+                        }
+                      ],
+                      "title": "Central Limit Theorem"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1694120775324,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1694120670998,
+                          "path": "Notes/Cards/Binomial Distribution.md",
+                          "subpath": "#Details"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694120757655,
+                          "path": "Notes/Cards/Binomial Distribution.md",
+                          "subpath": "#Equations"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694120562811,
+                          "path": "Notes/Cards/Binomial Distribution.md",
+                          "subpath": "#Description",
+                          "title": "Binomial Distribution Description"
+                        }
+                      ],
+                      "title": "Binomial Distribution (discrete normal)"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694127374715,
+                      "path": "Notes/Cards/The 68-95-99.7 Rule.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694139623197,
+                      "path": "Notes/Cards/R functions for Normal Distributions.md",
+                      "subpath": "#`dnorm(x, mean = 0, sd = 1)`",
+                      "title": "R Functions for Normal Distributions"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146197926,
+                      "path": "Notes/Cards/Highest IQ.md",
+                      "title": "Highest IQ Monte Carlo Simulation"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694139784457,
+                      "path": "Notes/Cards/Quantile-quantile plots.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146368169,
+                      "path": "Notes/Cards/Visualize the probability density of a random variable.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146474096,
+                      "path": "Notes/Cards/Maximum Likelihood for the Normal Distribution.md"
+                    }
+                  ],
+                  "title": "Normal Distribution"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694145163041,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1694145232584,
+                      "path": "Notes/Cards/Gamma distribution.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145300927,
+                      "path": "Notes/Cards/Gamma distribution.md",
+                      "subpath": "#Description"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145312201,
+                      "path": "Notes/Cards/Gamma distribution.md",
+                      "subpath": "#Cumulative distribution function"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145325352,
+                      "path": "Notes/Cards/Gamma distribution.md",
+                      "subpath": "#Probability density function"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145339190,
+                      "path": "Notes/Cards/Gamma distribution.md",
+                      "subpath": "#Expected value, variance"
+                    }
+                  ],
+                  "title": "Gamma Distribution"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694147341584,
+                  "path": "Notes/Cards/Cumulative Distribution Function (CDF).md",
+                  "subpath": "#Uniform distributions",
+                  "title": "Uniform Distributions"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694147368797,
+                  "path": "Notes/Cards/Cumulative Distribution Function (CDF).md",
+                  "subpath": "#Exponential distributions",
+                  "title": "Exponential Distributions"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694147648293,
+                  "items": [
+                    {
+                      "type": "search",
+                      "ctime": 1694147616723,
+                      "query": "monte carlo simulation",
+                      "title": "Monte Carlo Simulation"
+                    }
+                  ],
+                  "title": "Monte Carlo"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694146836712,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1694147093883,
+                      "path": "Notes/Cards/p-value.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126702610,
+                      "path": "Notes/Cards/p-hacking.md",
+                      "subpath": "#Detail"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126685758,
+                      "path": "Notes/Cards/p-hacking.md",
+                      "subpath": "#Description"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126646142,
+                      "path": "Notes/Cards/p-hacking.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694147215402,
+                      "path": "Notes/Cards/Calculating p-values.md"
+                    }
+                  ],
+                  "title": "p-values"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694140207251,
+                  "path": "Notes/Cards/Cumulative Distribution Function (CDF).md"
+                }
+              ],
+              "title": "Probability"
+            },
+            {
+              "type": "group",
+              "ctime": 1694122496321,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692678948586,
+                  "query": "Statistics"
+                }
+              ],
+              "title": "Statistics"
+            },
+            {
+              "type": "group",
+              "ctime": 1694122514283,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692679054560,
+                  "query": "[[R]] -excalidraw",
+                  "title": "R"
+                }
+              ],
+              "title": "Coding"
+            }
+          ],
+          "title": "Data Science"
+        },
+        {
+          "type": "group",
+          "ctime": 1692679726936,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1692679803068,
+              "query": "Obsidian"
+            },
+            {
+              "type": "graph",
+              "ctime": 1692709490900,
+              "title": "Obsidian Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "Obsidian",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": false,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 1.96302083333333,
+                "collapse-forces": false,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.46822130772748,
+                "close": false
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1692679847663,
+              "query": "\"Personal Knowledge Management\" OR pkm",
+              "title": "PKM"
+            },
+            {
+              "type": "graph",
+              "ctime": 1692709625516,
+              "title": "PKM - Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "Personal Knowledge Management OR PKM",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": false,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 1.96302083333333,
+                "collapse-forces": false,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.46822130772748,
+                "close": true
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1692679906155,
+              "query": "Zettelkasten"
+            },
+            {
+              "type": "search",
+              "ctime": 1692679883470,
+              "query": "Information"
+            }
+          ],
+          "title": "Personal Knowledge Management"
+        },
+        {
+          "type": "group",
+          "ctime": 1692738051592,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1695019260118,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1695019137342,
+                  "query": "Occitan"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1695019241103,
+                  "query": "Occitan /type:: .*fleeting/",
+                  "title": "Occitan Fleeting Notes"
+                }
+              ],
+              "title": "Occitan Language"
+            },
+            {
+              "type": "group",
+              "ctime": 1694923395271,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1694965237112,
+                  "path": "Extras/Canvases/Occitan.canvas"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694926341080,
+                  "query": "Occitan /type:: .*fleeting/ -file:Unique",
+                  "title": "Fleeting Occitan"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694923386438,
+                  "query": "Occitan"
+                }
+              ],
+              "title": "Occitan"
+            }
+          ],
+          "title": "Languages and Linguistics"
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "type": "group",
+      "ctime": 1692687904167,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696701161381,
+          "path": "Extras/Canvases/Publications Dashboard.canvas",
+          "title": "Publications Dashboard"
+        },
+        {
+          "type": "search",
+          "ctime": 1694586073338,
+          "query": "/type:: (article|video|script|story|narrative)/ ([\"action\":true] OR /action:: true/)",
+          "title": "Action needed"
+        },
+        {
+          "type": "file",
+          "ctime": 1694561623897,
+          "path": "Notes/Publications Dashboard.canvas",
+          "title": "Publications Dashboard"
+        },
+        {
+          "type": "file",
+          "ctime": 1694542102629,
+          "path": "Notes/Publishing Dashboard.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1693489126578,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694413609743,
+              "query": "/type:: article/ /Stage:: final/",
+              "title": "Final"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413542594,
+              "query": "/type:: article/ /Stage:: beta/",
+              "title": "Beta"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413521062,
+              "query": "/type:: article/ /Stage:: alpha/",
+              "title": "Alpha"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413576320,
+              "query": "/type:: article/ /Stage:: idea/",
+              "title": "Idea"
+            },
+            {
+              "type": "search",
+              "ctime": 1694288040052,
+              "query": "/type:: .*article/ \"Published:: true\"",
+              "title": "Published"
+            },
+            {
+              "type": "search",
+              "ctime": 1694342247535,
+              "query": "/type:: article/",
+              "title": "All Articles"
+            }
+          ],
+          "title": "Articles"
+        },
+        {
+          "type": "group",
+          "ctime": 1693489194454,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1692913013159,
+              "query": "\"type:: script\"",
+              "title": "Scripts"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462790290,
+              "query": "\"type:: video\" -\"Published:: true\"",
+              "title": "Unpublished"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462763469,
+              "query": "\"type:: video\" \"Published:: true\"",
+              "title": "Published"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462718332,
+              "query": "\"type:: video\"",
+              "title": "All"
+            }
+          ],
+          "title": "Videos"
+        },
+        {
+          "type": "file",
+          "ctime": 1694561392806,
+          "path": "Publishing.canvas",
+          "title": "Canvas"
+        },
+        {
+          "type": "group",
+          "ctime": 1694582890482,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694582863411,
+              "query": "/type:: story/",
+              "title": "Stories"
+            }
+          ],
+          "title": "Stories"
+        },
+        {
+          "type": "group",
+          "ctime": 1694582933731,
+          "items": [],
+          "title": "Biographical"
+        }
+      ],
+      "title": "Creating"
+    },
+    {
+      "type": "group",
+      "ctime": 1694106460578,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1696739868882,
+          "query": "/type:: *.fleeting/ -file:Unique -file:Bookmarks",
+          "title": "Fleeting Notes"
+        },
+        {
+          "type": "search",
+          "ctime": 1696739947947,
+          "query": "/action:: true/",
+          "title": "Action Needed"
+        },
+        {
+          "type": "search",
+          "ctime": 1696794534635,
+          "query": "/type:: .*reference/ OR [type: reference]",
+          "title": "Reference Notes"
+        },
+        {
+          "type": "search",
+          "ctime": 1696740174063,
+          "query": "/type:: .*moc/",
+          "title": "Maps of Content"
+        },
+        {
+          "type": "search",
+          "ctime": 1696740095862,
+          "query": "/type:: .*atomic.*/",
+          "title": "Atomic Notes"
+        },
+        {
+          "type": "search",
+          "ctime": 1696740330191,
+          "query": "path:Templates OR path:\"Template Library\"  ",
+          "title": "Templates"
+        },
+        {
+          "type": "search",
+          "ctime": 1693071937654,
+          "query": "path:fileClasses",
+          "title": "fileClasses"
+        },
+        {
+          "type": "search",
+          "ctime": 1694241588328,
+          "query": "sync-conflict"
+        },
+        {
+          "type": "file",
+          "ctime": 1696794148566,
+          "path": "Extras/Canvases/Normal Distribution.canvas",
+          "title": "Normal Distribution"
+        }
+      ],
+      "title": "Toolbox"
+    },
+    {
+      "type": "file",
+      "ctime": 1696462718221,
+      "path": "Extras/Canvases/Tasks Plugin.canvas",
+      "title": "Tasks Plugin VMOC"
+    }
+  ]
+}

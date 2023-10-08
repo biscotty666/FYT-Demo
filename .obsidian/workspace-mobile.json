@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "2e1fd2e999022306",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9fc05d999ab280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a477b68d593e3ab1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "3aa0ef860b409a55"
+          },
+          {
+            "id": "e0c3d967fc01c2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Freeing Your Thinking Part 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63ad768392b5f5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b44fb8f440a77c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-09-22 311pm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "419d43a8d32e721c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428076b7f05d648b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "3aa0ef860b409a55"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a80eb9145a8ebf41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "87f6e8793f7cc4fa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5b689dbfcf865d38",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Occitan canva",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6f0a7e0f79e1a3a4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4f343a71541a2d18",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "5bb6b925e7f92b0b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b3a842595c96c4f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "e906ea1dae891a8c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "604ef7f56cd95288",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/2023-09-22 311pm.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7f1dc0c7473f8729",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/2023-09-22 311pm.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bda178b43911487e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/2023-09-22 311pm.md"
+          }
+        }
+      },
+      {
+        "id": "2f3c84833bba8fc9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b44fb8f440a77c39",
+  "lastOpenFiles": [
+    "Extras/Canvases/Occitan.canvas",
+    "Notes/2023-09-22 311pm.md",
+    "Notes/Occitan Endangered.md",
+    "Notes/Occitan Dialects.md",
+    "Notes/Occitan Dialectes.sync-conflict-20230917-010757-BBO7X7A.md",
+    "Notes/Occitan Linguistic Classification.md",
+    "Notes/Occitan in Spain.md",
+    "Notes/Variety of Occitan Dialectes.md",
+    "Notes/2023-09-16 1118pm.md",
+    "Words.md",
+    "Languages and Linguistics.md",
+    "Notes/2023-09-16 626am.md",
+    "Normal Distribution.canvas",
+    "Notes/Visual MOCs with Canvas.md",
+    "Extras/Images/WookBlock38.png",
+    "Notes/Freeing Your Thinking Part 2.md",
+    "Notes/Syncing Your Thinking With Syncthing.md",
+    "Publications.canvas",
+    "Publishing Dashboard.md",
+    "Extras/Images/UnderTheBridge.jpg",
+    "Extras/Images/BWSBackground.png",
+    "Notes/Visual MOCs with Canvas.sync-conflict-20230913-143817-BBO7X7A.md",
+    "Notes/Knowledge Tree Walkthrough.md",
+    "+/Saraswati.md",
+    "Deities.md",
+    "Philosophy.md",
+    "Atlas/Mythology.md",
+    "Extras/Images/Saraswati.jpg",
+    "Cards/Normal Distribution.md",
+    "Notes/UPnP.md",
+    "Obsidian Scripts.md",
+    "JavaScript.md",
+    "Extras/Images/CL2.png",
+    "Extras/Images/ddc23-summaries.pdf",
+    "Extras/Images/ObsSS Configure Unique Note Creator.jpeg",
+    "Extras/Images/ObsSS Activate unique note creator plugin.jpeg",
+    "Extras/Images/Screenshot_20230729_122215.jpeg",
+    "Extras/Images/Screenshot_20230729_135804.jpeg",
+    "Extras/Images/Screenshot_20230729_135721.jpeg",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
+    "Color Palette Options.pdf",
+    "2 Rivers.xcf",
+    "Calendar/2022",
+    "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
+    "Extras/Images/windows-shortcuts.pdf",
+    "Extras/Images/inkscape-shortcuts.pdf",
+    "Extras/Images/Subnet-Guide.xlsx.pdf",
+    "Extras/Canvases/Obsidian Proverbs.canvas",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Untitled.canvas",
+    "Spaces/Obsidian and PKM Class",
+    "Untitled 1",
+    "Obsidian/Test.canvas",
+    "Obsidian/Brian2/Brian2/Test.canvas"
+  ]
+}

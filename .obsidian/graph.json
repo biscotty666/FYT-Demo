@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "\"status:: new\" Basque Language",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "moc",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Binomial Distribution",
+      "color": {
+        "a": 1,
+        "rgb": 6938706
+      }
+    },
+    {
+      "query": "distribution",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "#on/R",
+      "color": {
+        "a": 1,
+        "rgb": 15531011
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.584895833333333,
+  "lineSizeMultiplier": 1.96302083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.454584748379129,
+  "repelStrength": 8.14325409076876,
+  "linkStrength": 0.529669651126891,
+  "linkDistance": 250,
+  "scale": 1.580246913580245,
+  "close": true
+}

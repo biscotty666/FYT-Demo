@@ -1,0 +1,25 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "AlternateCheckboxes",
+    "cards",
+    "custom-rainbow-colors",
+    "quicksand",
+    "Quicksand-Online",
+    "mystyles",
+    "images",
+    "hide-metadata",
+    "extended-colorschemes",
+    "mermaid",
+    "canvas-fancy"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "accentColor": "",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true
+}

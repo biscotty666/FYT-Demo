@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c009cd008dc68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78bbbfeb34c3421",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": 1925.0711411057869,
+                  "y": 241.2074773801002,
+                  "zoom": 0.3999999999999999
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a8bec3436fee8983",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
+                "viewState": {
+                  "x": 12657.5,
+                  "y": -239.5,
+                  "zoom": -4
+                }
+              }
+            }
+          },
+          {
+            "id": "5a35ff501bb1a6f2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://nixos.wiki/wiki/GNOME"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4b7dd7947afa0bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NixOS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65ea8ed7bca788fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61f4306fa543a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aeabb5c3e16bb99",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 54.373024236037935,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-30.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6795684961800872,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-30.md"
+              }
+            }
+          },
+          {
+            "id": "d9d2e6a1c770753b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6092d768a4de5fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f50ea5aecf9f2a62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 45.626975763962065,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-30.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "65ea8ed7bca788fb",
+  "lastOpenFiles": [
+    "Extras/Templates/Log Exercise.md",
+    "Extras/Logs/2023-07-30 200pm.md",
+    "Extras/Logs/2023-07-30 336pm.md",
+    "Calendar/Daily Notes/Notes/2023-07-30.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Calendar/Daily Notes/Notes/2023-07-29.md",
+    "NixOS.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
+    "Extras/Logs/2023-07-30 335pm.md",
+    "Extras/Web Pages/GNOME - NixOS Wiki.md",
+    "Spaces/Publishing/My Logging System.md",
+    "Atlas/Laptop.md",
+    "Atlas/Obsidian.md",
+    "Extras/Templates/Infrastructure Log.md",
+    "Extras/Logs/2023-07-30 758am.md",
+    "Extras/Images/CL2.png",
+    "Extras/Logs/2023-07-29 1124pm.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Logs/Log Entry.md",
+    "Extras/HTML/My Logging System.html",
+    "Extras/HTML",
+    "HTML/My Logging System.html",
+    "HTML",
+    "Spaces/ObsPKMClass/Resources/Images.md",
+    "Extras/Images/Thumbnails-GV-Details-1.png",
+    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
+    "Extras/Logs/2023-07-29 216pm.md",
+    "Exc-20230726.sync-conflict-20230726-100733-BBO7X7A.md",
+    "Extras/Logs/2023-07-29 448pm.md",
+    "Extras/Logs/2023-07-29 317pm.md",
+    "Extras/Images/Screenshot_20230729_150225.jpeg",
+    "Extras/Images/Screenshot_20230729_150346.jpeg",
+    "Extras/Images/Screenshot_20230729_150319.jpeg",
+    "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
+    "Spaces/ObsPKMClass/Notes/Dataview SORT.md",
+    "Atlas/Linux.md",
+    "Extras/Images/Screenshot_20230729_135804.jpeg",
+    "Extras/Images/Screenshot_20230729_135721.jpeg",
+    "Extras/Images/Screenshot_20230729_134704.jpeg",
+    "Extras/Templates/Study Log.md",
+    "Extras/Images/Screenshot_20230729_131915.jpeg",
+    "Extras/Images/Screenshot_20230729_122215.jpeg",
+    "Extras/Logs",
+    "Extras/Templates/Archive",
+    "Spaces/Publishing",
+    "2 Rivers.xcf",
+    "Color Palette Options.pdf",
+    "Spaces/Blog/Notes/src/routes/rss.xml",
+    "Extras/Canvases/New one.canvas",
+    "Extras/Canvases/Untitled 1.canvas",
+    "Extras/Canvases/Untitled 1.excalidraw.canvas",
+    "Extras/Canvases/Untitled.canvas",
+    "Extras/Canvases/Obsidian Proverbs.canvas",
+    "Extras/Canvases/OPCourseIntro.canvas",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Extras/Canvases/What is Obsidian?.canvas"
+  ]
+}
