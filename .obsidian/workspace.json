@@ -91,13 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.50390625,
-    "collapsed": true
+    "width": 309.50390625
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -261,7 +259,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f9aabeaf25bef68",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "Notes/Normal Distribution.md",
     "Extras/Canvases/Normal Distribution.canvas",
@@ -269,7 +267,7 @@
     "Notes/R functions for Normal Distributions.md",
     "Notes/Central Limit Theorem.md",
     "Notes/Maximum Likelihood for the Normal Distribution.md",
-    "Probability and Statistics.md",
+    "Notes/Probability and Statistics.md",
     "Extras/Images/Pasted image 20230406211446.png",
     "Extras/Images/Pasted image 20230427105914.png",
     "Extras/Images/Pasted image 20230427000823.png",
@@ -296,7 +294,7 @@
     "Notes/2023-10-08 224am.md",
     "Notes/2023-10-08 205am.md",
     "Notes/2023-10-08 148am.md",
-    "Logs.md",
+    "Notes/Logs.md",
     "Extras/Images/IMG_20230623_102050410.jpg",
     "Extras/Images/IMG_20230519_091609878_HDR.jpg",
     "Template Library",
